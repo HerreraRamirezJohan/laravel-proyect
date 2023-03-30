@@ -1,0 +1,1 @@
+Formulario de edicion de empleado.<?php /**PATH D:\Laravel 8.0\CRUD_tutorial\resources\views/employe/edit.blade.php ENDPATH**/ ?>
